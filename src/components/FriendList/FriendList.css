@@ -1,0 +1,48 @@
+.FriendListU {
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  flex-direction: column;
+  max-width: 300px;
+  margin-bottom: 30px;
+}
+
+.FriendsListItem{
+  height: 60px;
+  display: flex;
+  align-items: center;
+  background-color: #fff;
+  margin-bottom: 5px;
+  border-radius: 4px;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+}
+
+.FriendsListStatusOnline {
+  margin-right: 10px;
+  margin-left: 10px;
+  background-color: green;
+  height: 20px;
+  width: 20px;
+  border-radius: 50%;
+}
+
+
+.FriendsListStatusOffline{
+   margin-left: 10px;
+  margin-right: 10px;
+  background-color: red;
+  height: 20px;
+  width: 20px;
+  border-radius: 50%;
+}
+
+
+
+.FriendsListImage{
+  margin-right: 20px;
+  border: 1px solid black;
+  border-radius: 4px;
+  width: 48px;
+  height: 48px;
+}
+

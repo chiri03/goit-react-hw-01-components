@@ -1,0 +1,38 @@
+.StatisticsSection{
+  margin-right: auto;
+  margin-left: auto;
+  background-color: #fff;
+  width: 270px;
+  margin-bottom: 30px;
+}
+
+.StatisticsTitle {
+ padding: 13px;
+  font-size: 16px;
+  text-align: center;
+  text-transform: uppercase;
+  opacity: 70%;
+}
+
+.StatisticsList {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around; 
+}
+
+.StatisticsItem {
+  color: #fff;
+  height: 100%;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.StatisticsLabel{ 
+  margin-bottom: 10px;
+  font-size: 12px;
+}
+
