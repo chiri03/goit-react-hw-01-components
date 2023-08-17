@@ -36,13 +36,12 @@
   border-radius: 50%;
 }
 
-
-
 .FriendsListImage{
   margin-right: 20px;
   border: 1px solid black;
   border-radius: 4px;
   width: 48px;
   height: 48px;
+  padding: 3px;
 }
 
